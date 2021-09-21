@@ -71,6 +71,14 @@ open ESTabBarController
 4. ~~The picture of 'More' item in ESTabBarItemMoreContentView is not set into framework, plan to convert it to CGBitmap.~~
 
 
+## Sponsor
+
+You can support the project by checking out our sponsor page. It takes only one click:
+
+<a href='https://tracking.gitads.io/?repo=ESTabBarController'><img src="https://images.gitads.io/ESTabBarController" alt="git-ad"/></a>
+<br><i>This advert was placed by <a href="https://tracking.gitads.io/?campaign=gitads&repo=ESTabBarController&redirect=gitads.io">GitAds</a> </i>
+
+
 ## Acknowledgement
 
 * [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) by <http://ramotion.com> 

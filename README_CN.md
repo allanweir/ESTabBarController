@@ -72,7 +72,15 @@ open ESTabBarController
 4. ~~ESTabBarItemMoreContentView中的"More"图片目前还未设置到framework中，计划将它转化为创建CGBitmap的代码。~~
 
 
-## 感谢:
+## 赞助
+
+您可以通过查看我们的赞助商页面来支持该项目。 只需单击一下即可：
+
+<a href='https://tracking.gitads.io/?repo=ESTabBarController'><img src="https://images.gitads.io/ESTabBarController" alt="git-ad"/></a>
+<br><i>这则广告来自 <a href="https://tracking.gitads.io/?campaign=gitads&repo=ESTabBarController&redirect=gitads.io">GitAds</a> </i>
+
+
+## 感谢
 
 * [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) by <http://ramotion.com> 
 * Example中部分图片资源来自 <http://www.iconfont.cn>
@@ -86,7 +94,7 @@ ESTabBarController是由[lihao](mailto:lihao_iOS@hotmail.com)开发和维护。�
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/eggswift/ESTabBarController)
 [![Twitter Follow](https://img.shields.io/twitter/follow/lihao_ios.svg?style=social)](https://twitter.com/lihao_iOS)
 
-## License
+## 许可证
 
 The MIT License (MIT)
 
