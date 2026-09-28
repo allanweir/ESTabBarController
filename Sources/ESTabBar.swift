@@ -176,7 +176,13 @@ internal extension ESTabBar /* Layout */ {
             } .sorted { (subview1, subview2) -> Bool in
                 return subview1.frame.origin.x < subview2.frame.origin.x
         }
-        
+
+        guard tabBarButtons.count >= tabBarItems.count else {
+            // UIKit hasn't finished creating a UITabBarButton for every item yet;
+            // it will call layoutSubviews() again once it has.
+            return
+        }
+
         if isCustomizing {
             for (idx, _) in tabBarItems.enumerated() {
                 tabBarButtons[idx].isHidden = false
